@@ -19,7 +19,7 @@ I enjoy building things where storytelling meets technology. My work combines AI
 - 🎬 Creating AI-generated films and visual stories
 - 🌐 Building responsive websites with HTML, CSS and JavaScript
 - 🤝 Open to collaborations, internships and creative projects
-- 📫 Reach me at **you@example.com**
+- 📫 Reach me at **muhammadubaidshaikh526@gmail.com**
 
 ---
 
