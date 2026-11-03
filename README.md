@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I’m [Your Name] 👋
+# Hi, I’m Muhammad Ubaid Shaikh 👋
 
 **Student · AI Filmmaker · Web Developer**
-[Your University], Pakistan
+Dawood University of Engineering and Technologies, Pakistan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadubaidshaikh526@gmail.com)
 
 </div>
 
