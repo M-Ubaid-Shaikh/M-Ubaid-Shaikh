@@ -1,55 +1,18 @@
-<div align="center">
+# 💫 About Me:
+I'm Muhammad Ubaid Shaikh, a student and aspiring web developer from Pakistan 🇵🇰. I enjoy turning ideas into clean, responsive websites and exploring how AI tools can make creative work faster and better.<br><br>- 💻 Building with HTML, CSS and JavaScript<br>- 🤖 Exploring AI tools for design and content<br>- 🌱 Learning something new every day<br>- 🤝 Open to internships, collaborations and creative projects<br>- 📫 Reach me at **muhammadubaidshaikh526@gmail.com**
 
-# Hi, I’m Muhammad Ubaid Shaikh 👋
 
-**Student · AI Filmmaker · Web Developer**
-Dawood University of Engineering and Technologies, Pakistan
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@C-S_Creators) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadubaidshaikh526@gmail.com) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadubaidshaikh526@gmail.com)
-
-</div>
-
----
-
-## About me
-
-I enjoy building things where storytelling meets technology. My work combines AI video generation, cinematic planning and web development, from writing scripts and storyboards to publishing a finished website.
-
-- 🎬 Creating AI-generated films and visual stories
-- 🌐 Building responsive websites with HTML, CSS and JavaScript
-- 🤝 Open to collaborations, internships and creative projects
-- 📫 Reach me at **muhammadubaidshaikh526@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=M-Ubaid-Shaikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=M-Ubaid-Shaikh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-Ubaid-Shaikh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=M-Ubaid-Shaikh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Tools and skills
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
-![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-## GitHub stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*“The choices we make can circle back to shape the very beginning of our own story.”*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
